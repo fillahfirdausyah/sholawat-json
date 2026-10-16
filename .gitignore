@@ -114,3 +114,5 @@ public
 .github/instructions/
 
 .vscode
+# Compiled validator
+validator/validator
